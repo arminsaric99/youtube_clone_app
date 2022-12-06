@@ -6,8 +6,8 @@ const options = {
     url: BASE_URL,
     params: {maxResults: '50'},
     headers: {
-      'X-RapidAPI-Key': 'a90c26455cmsh235d4e12ec1b898p1c000bjsn0c2dba03f83a',
-      'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
+      'X-RapidAPI-Key': '',
+      'X-RapidAPI-Host': ''
     }
   };
 
